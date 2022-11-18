@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaHappyCode
-- 🚨 Note that Im sorting my files that is why there areny many repository uploaded at the moment! 
+- 🚨 Note that Im sorting my files that is why there are no many repository uploaded at the moment! 
 - 👀 I’m interested in ... learning diffrent typ of languages within codeing.
 - 🌱 I’m currently learning ... Backen!
 - what i've learnt so far.....
