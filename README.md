@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @MaHappyCode
+- 🚨 Note that Im sorting my files that is why there areny many repository uploaded at the moment! 
 - 👀 I’m interested in ... learning diffrent typ of languages within codeing.
-- 🌱 I’m currently learning ... CSS,Java/Script.
+- 🌱 I’m currently learning ... Backen!
+- what i've learnt so far.....
+- HTML5/CSS/JS,Android/Kotlin,React Native, SwiftUi/StoryBoard.
 - 💞️ I’m looking to collaborate on ... what ever I need help with and the fella out there need help with.
-- 📫 How to reach me ... just pm me on my Snapchat @danyal5321 or on my GHub
+- 📫 How to reach me ... just pm me on my Snapchat @danyal5321 or on my GHub or dani.yalda@outlook.com
 
 <!---
 MaHappyCode/MaHappyCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
