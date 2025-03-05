@@ -4,7 +4,7 @@
 - I’m currently learning ... Backen!
 - what i've learnt so far.....
 - HTML5/CSS/JS,Android/Kotlin,React Native, SwiftUi/StoryBoard.
-- How to reach me ... just pm me on my GHub
+
 
 <!---
 MaHappyCode/MaHappyCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
